@@ -1,5 +1,5 @@
 from turtle import * #import all functions from turtle library
-speed('slowest')
+speed('slow')
 fd(100)
 lt(60)
 fd(100)
